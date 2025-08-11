@@ -1,1 +1,3 @@
 # CAPPExpress
+
+CAPPExpress是基于CAD的CAPP工艺流程加工图纸管理系统。用于管理机械加工流程卡片和图纸，包含项目配置、文件管理、数据管理。CAPPExpress相对于传统的用Excel制作的工艺流程，更加易于管理，图纸数据智能一体化。
